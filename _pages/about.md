@@ -1,23 +1,20 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Mayur Bhangale
+description: <a href="https://www.linkedin.com/in/mayurbhangale/">Software Development Engineer II - Search</a> at Zomato
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a software engineer at [Zomato](https://zomato.com){:target="\_blank"} working on problems in NLP, Search, Ranking and their intersection.
+Prior to Zomato, I was Data Scientist at [Crysagi Systems (acquired by CoreView Systems)](https://www.business-standard.com/article/news-ani/coreview-acquires-crysagi-systems-119081400734_1.html) where I spent my time applying cutting edge deep learning research to solve business problems in areas ranging from knowledge graphs, NLP to geometric deep learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Crysagi, I worked as tech lead (founding team) at StoreKey where I learned about Indian internet market, product management and [doing hard things](https://www.amazon.in/Hard-Thing-about-Building-Business/dp/0062273205).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[read more]()
