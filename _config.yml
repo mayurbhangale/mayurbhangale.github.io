@@ -71,7 +71,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
@@ -83,9 +83,15 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-seo-tag
 
-
-
+social:
+  name: Mayur Bhangale
+  links:
+    - https://twitter.com/mayurcb
+    - https://www.linkedin.com/in/mayurbhangale
+    - https://github.com/mayurbhangale
+    
 # -----------------------------------------------------------------------------
 # Other settings
 # -----------------------------------------------------------------------------
