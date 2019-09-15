@@ -1,0 +1,17 @@
+---
+layout: post
+title: more about me
+date: 2019-09-15 15:09:00 +0000
+description: ''
+
+---
+**Whats in a name?**
+
+I love [reading](https://www.goodreads.com/user/show/47294071-mayur-bhangale "goodreads"), [listening to lounge music](https://open.spotify.com/user/mayurchbh?si=45aAD4OYQcqfFBfWPsVctA) and [discovering new places to dine out](https://zomato.com/mayurchbh).  I usually read [arxiv]() with breakfast and perfect weekend for me is when I finish _that_ personal project which I decided to do over weekdays. ad  
+  
+**Favorite music/artists**
+
+* [Coldplay](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
+* [Tajdar-e-haram](https://www.youtube.com/watch?v=a18py61_F_w) 
+* [The Local Train](https://www.youtube.com/channel/UCTzjnbxgPIHYD0_qDBvNOSQ)
+* [Ludovico Einaudi](https://www.youtube.com/channel/UCQxsahIsaO7_nDwVlFRMQiA)
